@@ -1,7 +1,8 @@
 # Weather Forecast App
 
-## Frontend: HTML, CSS, TailwindCSS, Javascript, ReactJs
+## Frontend: HTML, TailwindCSS, Javascript, ReactJs
 ## Backend: Javascript, OpenWeatherAPI
 
 
-![Web capture_31-3-2023_233521_localhost](https://user-images.githubusercontent.com/113363294/229197791-0f96ce27-f4bf-4daf-acf2-8cdc808c6942.jpeg)
+![image](https://github.com/Alen-Varghese/React-Weather-App/assets/113363294/8ae01f75-7d47-49cf-935f-fd99e88b4668)
+
